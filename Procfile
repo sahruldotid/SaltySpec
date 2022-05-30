@@ -1,0 +1,1 @@
+web: gunicorn ProjectPPL.wsgi
