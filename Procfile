@@ -1,1 +1,1 @@
-web: gunicorn SaltySpec.wsgi
+web: gunicorn ProjectPPL.wsgi
