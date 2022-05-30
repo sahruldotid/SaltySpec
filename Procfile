@@ -1,1 +1,1 @@
-web: gunicorn saltyspec.wsgi
+web: gunicorn SaltySpec.wsgi
